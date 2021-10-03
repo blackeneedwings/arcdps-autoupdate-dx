@@ -1,4 +1,4 @@
-# arcdps-autoupload-dx11
+# Arcdps autoupdater script for DX11 and DX9
 Very simple script to update arcdps for both renderers.
 It runs with the default version of powershell installed on standard windows install.
 It **will** overwrite previous d3d9.dll and d3d11.dll files that are in conflict with the freshly downloaded ones.
